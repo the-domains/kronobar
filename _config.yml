@@ -1,0 +1,28 @@
+name: KRONOBAR
+favicon: null
+layout_spectrum: 0.6759348122868687
+typography_spectrum: 0.4021594326477498
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5911084625404328
+  lightness: 0.19052960048429668
+  saturation: 0.5594439010601491
+  rhythmicContrast: 0.5720310066826642
+purpose: []
