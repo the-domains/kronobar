@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[KRONOBAR]]></title>
         <description><![CDATA[KRONOBAR]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kronobar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 03:04:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Jan 2016 03:04:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kronobar/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.kronobar.com/wp-content/uploads/2011/09/tuile_barre.jpg">]]></description>
+            <link>https://thegrid.ai/kronobar/21c462f8-51dd-4f08-947b-1f3c125f001d/index.html</link>
+            <guid isPermaLink="false">21c462f8-51dd-4f08-947b-1f3c125f001d</guid>
+            <pubDate>Mon, 25 Jan 2016 03:04:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.kronobar.com/wp-content/uploads/2011/09/tuile_boisson_sportive.jpg">]]></description>
+            <link>https://thegrid.ai/kronobar/a91b264b-60bd-4b23-a89f-b5b96609b502/index.html</link>
+            <guid isPermaLink="false">a91b264b-60bd-4b23-a89f-b5b96609b502</guid>
+            <pubDate>Mon, 25 Jan 2016 03:04:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Les produits KRONOBAR]]></title>
             <description><![CDATA[<article><h1>Les produits KRONOBAR</h1><p>Vous croyez que toutes les barres énergétique sont identiques ? </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/30f4409084a3f7541692e432e939cd7834b721e3.png"></article>]]></description>
-            <link>undefinedles-produits-kronobar/index.html</link>
+            <link>https://thegrid.ai/kronobar/les-produits-kronobar/index.html</link>
             <guid isPermaLink="false">7b30af9b-ffa2-4daf-93f8-e682da0cff05</guid>
             <pubDate>Mon, 25 Jan 2016 03:04:08 GMT</pubDate>
         </item>
