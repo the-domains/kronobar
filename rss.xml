@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[KRONOBAR]]></title>
+        <description><![CDATA[KRONOBAR]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 25 Jan 2016 03:04:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Les produits KRONOBAR]]></title>
+            <description><![CDATA[<article><h1>Les produits KRONOBAR</h1><p>Vous croyez que toutes les barres énergétique sont identiques ? </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/30f4409084a3f7541692e432e939cd7834b721e3.png"></article>]]></description>
+            <link>undefinedles-produits-kronobar/index.html</link>
+            <guid isPermaLink="false">7b30af9b-ffa2-4daf-93f8-e682da0cff05</guid>
+            <pubDate>Mon, 25 Jan 2016 03:04:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
